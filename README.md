@@ -5,3 +5,4 @@ Mon stage à été fais a Cergi SA et visait à Optimiser L'Architecture cloud c
 https://www.youtube.com/channel/UChFOuhUf12hIVEdcnaSUNzA  cloud azure
 
 https://www.flaticon.com/  for icone
+https://fr.slideshare.net/sebNZOGANG/etude-et-mise-en-place-dune-solution-de-cloud-computing-priv-base-sur-un-algorithme-de-supervision-distribu-application-aux-services-iaas-cas-de-matrix-tlcoms        docoment clée
