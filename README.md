@@ -10,3 +10,5 @@ https://fr.slideshare.net/sebNZOGANG/etude-et-mise-en-place-dune-solution-de-clo
 
 https://www.densify.com/resources/cloud-optimization#:~:text=Cloud%20Optimization%20is%20About%20Delivering%20Business%20Efficiency&text=When%20workload%20performance%2C%20compliance%2C%20and,real%20time%2C%20efficiency%20is%20achieved.
 https://www.technologymagazine.com/cloud-computing/cloud-optimisation-overcoming-complexities-cloud-based-solutions
+
+https://keygenninja.com/ns/code/
