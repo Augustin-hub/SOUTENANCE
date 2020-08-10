@@ -12,3 +12,4 @@ https://www.densify.com/resources/cloud-optimization#:~:text=Cloud%20Optimizatio
 https://www.technologymagazine.com/cloud-computing/cloud-optimisation-overcoming-complexities-cloud-based-solutions
 
 https://keygenninja.com/ns/code/
+https://www.youtube.com/watch?v=Y0_G19fM2mc
