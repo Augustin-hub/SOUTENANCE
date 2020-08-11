@@ -13,3 +13,4 @@ https://www.technologymagazine.com/cloud-computing/cloud-optimisation-overcoming
 
 https://keygenninja.com/ns/code/
 https://www.youtube.com/watch?v=Y0_G19fM2mc
+https://hostadvice.com/tools/web-hosting-comparison/godaddy-vs-microsoft-azure/                           *comparaison
