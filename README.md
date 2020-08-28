@@ -14,3 +14,4 @@ https://www.technologymagazine.com/cloud-computing/cloud-optimisation-overcoming
 https://keygenninja.com/ns/code/
 https://www.youtube.com/watch?v=Y0_G19fM2mc
 https://hostadvice.com/tools/web-hosting-comparison/godaddy-vs-microsoft-azure/                           *comparaison
+https://www.genious-interactive.com/vitesse-chargement-pourquoi-comment-ameliorer/#:~:text=dans%20son%20cache.-,Utilisez%20un%20CDN,Content%20Delivery%20Network%20(CDN).   temps de reponse
