@@ -18,3 +18,4 @@ https://www.genious-interactive.com/vitesse-chargement-pourquoi-comment-ameliore
 
 https://www.ionos.fr/digitalguide/serveur/know-how/load-balancer-repartition-de-charge-sur-un-serveur/    Le loadbalancing 
 https://docs.microsoft.com/fr-fr/sql/database-engine/database-mirroring/database-mirroring-sql-server?view=sql-server-ver15#:~:text=Lamise%20en%20miroir%20de%20bases,SQL%20ServerSQL%20Server%20database.   mirroring
+https://sys-advisor.com/2017/03/15/tuto-sql-server-2016-configurer-cluster-sql-server-always-on-avec-2-noeuds/           Failover
