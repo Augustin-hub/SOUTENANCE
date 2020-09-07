@@ -22,3 +22,4 @@ https://sys-advisor.com/2017/03/15/tuto-sql-server-2016-configurer-cluster-sql-s
 https://www.hebergeurcloud.com/definition-cloud-computing-selon-nist/                      definition du cloud 
 https://www.rswebsols.com/tutorials/software-tutorials/saas-paas-iaas-advantages-disadvantages-comparison      comparaison Paas Saas Iaas
 https://www.sauvegardedefichiers.fr/comprendre-les-4-types-de-sauvegarde-des-donnees-les-plus-utilises00813           les types de sauvegardes
+https://apachebooster.com/blog/what-is-load-balancing/                                             loadbalancing 
