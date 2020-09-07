@@ -21,3 +21,4 @@ https://docs.microsoft.com/fr-fr/sql/database-engine/database-mirroring/database
 https://sys-advisor.com/2017/03/15/tuto-sql-server-2016-configurer-cluster-sql-server-always-on-avec-2-noeuds/           Failover
 https://www.hebergeurcloud.com/definition-cloud-computing-selon-nist/                      definition du cloud 
 https://www.rswebsols.com/tutorials/software-tutorials/saas-paas-iaas-advantages-disadvantages-comparison      comparaison Paas Saas Iaas
+https://www.sauvegardedefichiers.fr/comprendre-les-4-types-de-sauvegarde-des-donnees-les-plus-utilises00813           les types de sauvegardes
