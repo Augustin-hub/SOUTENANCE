@@ -24,3 +24,4 @@ https://www.rswebsols.com/tutorials/software-tutorials/saas-paas-iaas-advantages
 https://www.sauvegardedefichiers.fr/comprendre-les-4-types-de-sauvegarde-des-donnees-les-plus-utilises00813           les types de sauvegardes
 https://apachebooster.com/blog/what-is-load-balancing/                                             loadbalancing 
 https://www.youtube.com/watch?v=NNVYYUgPrgY                                                             all for failover clustering and replication
+https://www.gns3.com/marketplace/labs/dialup-vpn-ipsec-fortigate-2
