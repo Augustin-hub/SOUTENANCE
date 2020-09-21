@@ -25,3 +25,4 @@ https://www.sauvegardedefichiers.fr/comprendre-les-4-types-de-sauvegarde-des-don
 https://apachebooster.com/blog/what-is-load-balancing/                                             loadbalancing 
 https://www.youtube.com/watch?v=NNVYYUgPrgY                                                             all for failover clustering and replication
 https://www.gns3.com/marketplace/labs/dialup-vpn-ipsec-fortigate-2
+https://www.youtube.com/watch?v=rGezznrpOG0                                  vpn SIte to site 
