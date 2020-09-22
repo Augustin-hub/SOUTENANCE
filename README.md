@@ -28,4 +28,6 @@ https://www.gns3.com/marketplace/labs/dialup-vpn-ipsec-fortigate-2
 https://www.youtube.com/watch?v=rGezznrpOG0                                  vpn SIte to site 
 https://www.youtube.com/channel/UCZIKPunBY0daW67xsD0Ccsw                                vpn 2 
 https://www.sqlshack.com/sql-server-2014-install-clustered-instance-step-step-13/   failover
-https://my.vmware.com/web/vmware/downloads/details?downloadGroup=PLAYER-1400-VIX1170&productId=687
+https://my.vmware.com/web/vmware/downloads/details?downloadGroup=PLAYER-1400-VIX1170&productId=687 
+
+https://network-tic.com/gns3-ipsec-site-to-site-fortigate-1/                 fotigate site to site tutorial
