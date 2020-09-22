@@ -27,3 +27,4 @@ https://www.youtube.com/watch?v=NNVYYUgPrgY                                     
 https://www.gns3.com/marketplace/labs/dialup-vpn-ipsec-fortigate-2
 https://www.youtube.com/watch?v=rGezznrpOG0                                  vpn SIte to site 
 https://www.youtube.com/channel/UCZIKPunBY0daW67xsD0Ccsw                                vpn 2 
+https://www.sqlshack.com/sql-server-2014-install-clustered-instance-step-step-13/   failover
