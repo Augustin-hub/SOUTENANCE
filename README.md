@@ -31,3 +31,4 @@ https://www.sqlshack.com/sql-server-2014-install-clustered-instance-step-step-13
 https://my.vmware.com/web/vmware/downloads/details?downloadGroup=PLAYER-1400-VIX1170&productId=687 
 
 https://network-tic.com/gns3-ipsec-site-to-site-fortigate-1/                 fotigate site to site tutorial
+https://www.dell.com/support/manuals/us/en/04/microsoft-windows-server-2019/ws2019_ig_pub/install-windows-server-2019-by-using-dell-emc-lifecycle-controller?guid=guid-3f833f36-f179-4a8c-b752-af5b9d61437d                                                             eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
